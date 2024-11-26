@@ -21,3 +21,4 @@
 ## Print da tela com o site funcional
 <img src="./img/previaSiteFim.png" alt="print da tela do site funcionando" class="print" />
 
+### O projeto pode ser testado no link https://sorteador-numeros-lovat.vercel.app/
